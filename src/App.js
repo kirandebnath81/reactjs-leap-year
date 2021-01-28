@@ -42,7 +42,7 @@ export default function App() {
       />
       <div>
         <button onClick={onClickHandler} className="btn">
-          Click me
+          Check
         </button>
       </div>
       <div className="output-text">{output}</div>
